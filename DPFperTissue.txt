@@ -1,0 +1,6 @@
+% DPF Data for 807 nm (Duncan et al. 1995 https://iopscience.iop.org/article/10.1088/0031-9155/40/2/007/pdf)
+Tissue	DPF
+adult_forearm	4.16
+baby_head	4.99
+adult_head	6.26
+adult_leg	5.51 
